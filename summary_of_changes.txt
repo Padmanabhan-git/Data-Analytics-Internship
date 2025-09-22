@@ -1,0 +1,30 @@
+Customer Personality Analysis - Synthetic Dataset Cleaning Summary
+Generated on: 2025-09-22 09:44:53 UTC
+
+Files:
+- original_dataset.csv : original_dataset.csv (synthetic messy dataset)
+- cleaned_dataset.csv : cleaned_dataset.csv (cleaned and ready for analysis)
+
+Row counts:
+- original rows: 308
+- cleaned rows: 308
+
+Main cleaning actions performed:
+1. Standardized column names to lowercase with underscores.
+2. Stripped leading/trailing whitespace from string fields.
+3. Replaced placeholders ('', 'N/A', 'unknown', '--') with actual missing values.
+4. Standardized 'gender' to 'Male'/'Female' where identifiable; others set to missing.
+5. Converted 'age' and 'annualincome' to numeric; filled missing values with median.
+6. Normalized 'familysize' to integer values (mapped textual numbers to digits).
+7. Normalized education levels (High School, Bachelors, Masters, Phd).
+8. Normalized marital status capitalization.
+9. Cleaned profession names and filled missing professions with 'Other'.
+10. Parsed 'joindate' into dd-mm-yyyy format where possible.
+11. Fixed common email typos and removed invalid emails.
+12. Removed exact duplicate rows.
+
+Assumptions & Notes:
+- Age and income missing values are imputed using median to avoid losing rows.
+- Family size mapping uses simple rules; unusual values default to 1.
+- Email validation uses a simple regex; advanced validation (MX check) not performed.
+- This is a synthetic dataset created to mimic common issues present in real Kaggle datasets.

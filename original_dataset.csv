@@ -1,0 +1,309 @@
+CustomerID,Name,Gender,Age,AnnualIncome,SpendingScore,FamilySize,Education,MaritalStatus,Profession,JoinDate,Email
+1001,NAME_1001,female,62,--,75,2,Masters,married,Executive,2019/04/27, user1001@example.com 
+1002,name_1002,FEMALE,49,25000,15,2,Bachelors,married,Engineer,2021/11/16,user1002@example.com
+1003,name_1003,F,69,25000,24,2,Bachelors,Divorced,Lawyer,2020/07/05,user1003@example.com
+1004,name_1004,M,47,65000,38,2,Bachelor,Divorced,Executive,2020/09/20,user1004@example.com
+1005,name_1005,Male,64,75000,35,1,Masters,married,engineer,2020/08/21,user1005@example.com
+1006,name_1006,Male,52,75000,94,2,master,single,Doctor,2019/06/21,user1006@example.com
+1007,name_1007,Male,,45000,95,5,HS,married,Artist,2021/01/07,user1007@example.com
+1008,name_1008,male,57,85000,49,3,HS,single,Artist,2022/05/23,user1008(at)example.com
+1009,name_1009,M,69,--,69,N/A,Bachelors,Divorced,Executive,2021/04/11,user1009@example.com
+1010,name_1010,F,33,unknown,62,5,,Married,Artist,2023/06/03,user1010@example.com
+1011,name_1011,Male,30,95000,60,3,,,Lawyer,2020/11/01,user1011@example.com
+1012,name_1012,unknown,67,75000,50,4,Masters,Divorced,Other,2022/12/29,user1012@example.com
+1013,name_1013,female,59,95000,78,5,Masters,Divorced,Executive,2018/05/08,user1013@example.com
+1014,name_1014,Male,47,65000,75,4,master,Single,Lawyer,2022/06/20,user1014@example.com
+1015,name_1015,Male,36,95000,9,2,Bachelor,Single,Other,2018/04/02,user1015@example.com
+1016,name_1016,Male,34,unknown,34,2,Phd,Single,Lawyer,2022/08/04,user1016@example.com
+1017,name_1017,Female,36,55000,76,1,HS,,Lawyer,2019/06/27,user1017@example.com
+1018,name_1018,Female,45,unknown,99,2,Bachelor,Single,Engineer,2020/04/25,user1018@example.com
+1019,name_1019,Female,,95000,35,5,High School,single,,2022/04/05,user1019@example.com
+1020,name_1020,Female,43,unknown,1,4,HS,married,Engineer,2022/08/09,user1020@example.com
+1021,name_1021,M,54,35000,40,3,Bachelor,Married,Doctor,2020/09/15,user1021@example.com
+1022,name_1022,Male,43,65000,64,2,HS,Divorced,Engineer,2023/01/26,user1022@example.com
+1023,name_1023,Female,N/A,--,22,2,Phd,single,Executive,2019/03/23,user1023@example.com
+1024,name_1024,Female,40,55000,60,2,High School,Married,Doctor,2019/01/25,user1024@example.com
+1025,name_1025,Female,26,75000,64,3,,single,Engineer,2019/11/03,user1025@example.com
+1026,name_1026,female,29,25000,93,2,,single,Engineer,2023/02/28,user1026@example.com
+1027,name_1027,Male,N/A,--,72,2,Phd,Divorced,Engineer,2018/02/12,user1027@example.com
+1028,name_1028,Female,18,25000,11,4,master,married,Executive,2018/09/11,user1028(at)example.com
+1029,name_1029,M,18,65000,14,4,High School,Single,Executive,2021/02/27,user1029@example.com
+1030,name_1030,Male,64,55000,60,5,Bachelors,,Artist,2020/12/19,user1030@example.com
+1031,name_1031,M,51,45000,30,5,Bachelor,married,Lawyer,2019/10/25,user1031@example.com
+1032,name_1032,Male,49,75000,35,three,High School,,Executive,2019/04/12,user1032@example.com
+1033,name_1033,Male,unknown,35000,85,N/A,master,Divorced,Engineer,2018/10/14,user1033@example.com
+1034,name_1034,FEMALE,65,45000,37,three,master,Divorced,Artist,2020/10/07,user1034(at)example.com
+1035,name_1035,unknown,42,65000,5,1,Phd,Divorced,engineer,2022/03/21,user1035@example.com
+1036,name_1036,female,57,--,83,2,HS,Married,Executive,2022/01/30,user1036@example.com
+1037,name_1037,Female,62,35000,78,5,High School,,Doctor,2023/05/08,user1037@example.com
+1038,name_1038,Male,N/A,unknown,26,4,Bachelor,married,Lawyer,2020/02/17,user1038@example.com
+1039,name_1039,F,18,95000,62,3,High School,married,Artist,2018/12/11,user1039@example.com
+1040,name_1040,Female,33,35000,4,4,Masters,single,Lawyer,2019/10/04,user1040@example.com
+1041,name_1041,Male,56,65000,89,2,HS,single,Engineer,2019/01/17,user1041@example.com
+1042,name_1042,Female,22,85000,42,three,Bachelor,single,Engineer,2022/12/08,user1042@example.com
+1043,name_1043,Male,39,95000,89,4,,Divorced,Engineer,2019/11/21,user1043(at)example.com
+1044,name_1044,male,46,25000,18,N/A,Bachelor,married,Other,2021/06/30,user1044@example.com
+1045,name_1045,Male,,75000,40,1,Bachelors,,Executive,2023/05/05,user1045@example.com
+1046,name_1046,F,20,25000,72,2,Phd,Divorced,Engineer,2020/12/15,user1046@example.com
+1047,name_1047,Female,29,35000,39,three,Bachelors,Married,Engineer,2022/01/26,user1047@example.com
+1048,name_1048,Female,43,25000,14,N/A,Bachelor,single,Executive,2019/04/02,user1048@example.com
+1049,name_1049,Female,33,65000,32,3,HS,Divorced,Engineer,2020/09/09,user1049@example.com
+1050,name_1050,Male,68,unknown,51,three,High School,Divorced,Doctor,2018/03/24,user1050@example.com
+1051,NAME_1051,unknown,54,--,38,2,,Married,engineer,2023/04/13, user1051@example.com 
+1052,name_1052,female,39,75000,97,N/A,High School,Single,Doctor,2021/01/27,user1052@example.com
+1053,name_1053,FEMALE,46,25000,23,N/A,HS,married,Executive,2018/05/29,user1053@example.com
+1054,name_1054,male,31,25000,63,1,Bachelor,,engineer,2021/09/14,user1054@example.com
+1055,name_1055,M,45,35000,15,2,master,Single,Artist,2021/03/25,user1055@example.com
+1056,name_1056,FEMALE,22,--,97,3,High School,single,Engineer,2018/07/09,user1056@example.com
+1057,name_1057,Male,64,45000,25,1,master,Divorced,Doctor,2022/02/26,user1057@example.com
+1058,name_1058,Male,66,25000,17,three,High School,Married,Other,2020/06/01,user1058@example.com
+1059,name_1059,Male,47,65000,97,1,High School,Married,Other,2018/09/20,user1059@example.com
+1060,name_1060,Female,63,85000,66,N/A,,married,Other,2021/01/08,user1060@example.com
+1061,name_1061,Female,69,75000,78,2,Phd,Single,Engineer,2019/02/04,user1061@example.com
+1062,name_1062,Male,22,25000,53,5,Phd,married,Other,2020/02/03,user1062@example.com
+1063,name_1063,female,29,65000,51,1,Masters,Divorced,Other,2019/09/01,user1063@example.com
+1064,name_1064,Female,33,65000,39,2,Bachelors,married,Executive,2021/07/07,user1064@example.com
+1065,name_1065,Female,43,75000,51,1,HS,,engineer,2022/12/01,user1065@example.com
+1066,name_1066,Female,43,45000,70,three,HS,Married,Other,2022/06/27,user1066@example.com
+1067,name_1067,Male,65,65000,6,three,HS,Married,Executive,2022/04/25,user1067@example.com
+1068,name_1068,female,38,85000,67,3,Masters,single,Executive,2020/02/24,user1068@example.com
+1069,name_1069,Male,56,65000,7,three,Phd,single,Artist,2018/04/11,user1069@example.com
+1070,name_1070,,53,65000,51,4,Bachelor,Divorced,Engineer,2021/10/14,user1070@example.com
+1071,name_1071,female,50,65000,72,2,master,,Executive,2021/11/04,user1071@example.com
+1072,name_1072,Male,47,unknown,42,2,,Single,Doctor,2020/03/30,user1072@example.com
+1073,name_1073,Male,54,unknown,64,5,master,married,Other,2021/05/29,user1073@example.com
+1074,name_1074,female,,,15,5,,Divorced,,2020/03/30,
+1075,name_1075,F,27,25000,29,2,,single,Other,2019/02/24,user1075@example.com
+1076,name_1076,F,unknown,65000,33,2,Masters,married,Engineer,2018/05/04,user1076@example.com
+1077,name_1077,female,22,--,94,5,Bachelor,single,Doctor,2019/02/26,user1077@example.com
+1078,name_1078,Male,53,25000,27,3,HS,married,Engineer,2021/06/08,user1078@example.com
+1079,name_1079,Female,51,45000,36,three,Bachelors,Single,Executive,2022/09/10,user1079@@example.com
+1080,name_1080,Male,69,55000,29,2,High School,Divorced,Other,2020/12/22,user1080@example.com
+1081,name_1081,male,48,25000,38,N/A,master,married,Other,2022/02/17,user1081@example.com
+1082,name_1082,M,27,25000,57,5,Phd,,Artist,2022/07/10,user1082@example.com
+1083,name_1083,Female,36,95000,97,2,Phd,Married,Other,2022/09/23,user1083@example.com
+1084,name_1084,Male,49,35000,27,4,Masters,,Other,2022/05/17,user1084@example.com
+1085,name_1085,Female,18,95000,55,1,,,Doctor,2020/02/07,user1085@@example.com
+1086,name_1086,Female,22,85000,33,three,Phd,Married,Other,2019/04/28,user1086@example.com
+1087,name_1087,F,62,unknown,68,2,HS,,Artist,2019/06/03,user1087@example.com
+1088,name_1088,M,21,unknown,86,1,master,married,Doctor,2018/06/04,user1088@example.com
+1089,name_1089,male,33,35000,66,5,Bachelor,married,Executive,2018/04/02,user1089@example.com
+1090,name_1090,Female,41,75000,10,1,HS,married,Artist,2020/09/08,user1090@example.com
+1091,name_1091,Male,33,75000,5,three,Masters,Married,Executive,2022/03/30,user1091@example.com
+1092,name_1092,F,,45000,74,2,HS,,Executive,2019/03/31,user1092@example.com
+1093,name_1093,female,19,35000,97,4,Bachelor,Married,Executive,2022/10/31,user1093@example.com
+1094,name_1094,M,66,25000,38,2,Bachelors,married,Artist,2019/08/21,user1094@example.com
+1095,name_1095,female,45,75000,13,5,Masters,,Lawyer,2022/07/27,user1095@example.com
+1096,name_1096,Female,49,65000,31,2,Bachelors,,Executive,2019/05/25,user1096@example.com
+1097,name_1097,Female,44,--,47,three,High School,single,Lawyer,2021/04/21,user1097@example.com
+1098,name_1098,Female,37,25000,100,5,Bachelors,single,Lawyer,2019/01/21,user1098@example.com
+1099,name_1099,Male,41,85000,88,3,High School,Single,Engineer,2022/05/17,user1099@example.com
+1100,name_1100,Male,29,65000,52,1,High School,Divorced,Executive,2022/10/21,user1100@example.com
+1101,NAME_1101,male,67,65000,56,2,Bachelors,single,Engineer,2019/02/09, user1101@example.com 
+1102,name_1102,M,52,35000,15,three,Masters,Married,Executive,2018/09/03,user1102@@example.com
+1103,name_1103,Female,50,45000,29,3,,single,Other,2020/01/12,user1103@example.com
+1104,name_1104,Female,50,85000,8,N/A,Bachelor,Single,Lawyer,2022/06/03,user1104@example.com
+1105,name_1105,male,68,75000,5,2,HS,,Lawyer,2019/10/23,user1105@example.com
+1106,name_1106,Male,60,35000,29,4,HS,Single,engineer,2019/10/12,user1106@example.com
+1107,name_1107,Female,,,47,5,,,Other,2022/02/03,
+1108,name_1108,F,29,35000,68,1,master,,Other,2023/01/24,user1108@example.com
+1109,name_1109,Male,20,35000,76,5,master,Divorced,Other,2023/03/27,user1109@example.com
+1110,name_1110,Male,18,35000,45,2,High School,single,Engineer,2021/12/17,user1110@example.com
+1111,name_1111,Female,50,45000,2,2,High School,Married,Engineer,2020/06/19,user1111@example.com
+1112,name_1112,Male,57,35000,27,5,Masters,Married,Lawyer,2018/03/06,user1112@example.com
+1113,name_1113,FEMALE,27,55000,95,1,Phd,married,Doctor,2020/11/02,user1113@example.com
+1114,name_1114,female,60,--,36,2,Bachelors,,Lawyer,2018/08/01,user1114@example.com
+1115,name_1115,M,61,75000,36,5,High School,Married,Artist,2018/08/30,user1115@example.com
+1116,name_1116,male,46,25000,26,4,HS,Divorced,Lawyer,2019/05/08,user1116@example.com
+1117,name_1117,female,30,95000,43,three,Masters,,Other,2021/05/21,user1117@example.com
+1118,name_1118,Male,29,85000,27,2,Bachelors,Divorced,Executive,2022/09/13,user1118@example.com
+1119,name_1119,male,48,unknown,69,three,Masters,Married,Lawyer,2018/12/04,user1119@example.com
+1120,name_1120,Female,63,45000,20,N/A,Bachelors,Married,Other,2018/06/22,user1120@example.com
+1121,name_1121,female,19,25000,11,2,Bachelors,married,Artist,2019/11/03,user1121@example.com
+1122,name_1122,male,68,65000,74,4,Bachelor,Married,Other,2018/06/13,user1122@example.com
+1123,name_1123,Female,67,55000,38,three,High School,,Engineer,2019/04/10,user1123@example.com
+1124,name_1124,Male,,,6,3,,,engineer,2020/09/21,
+1125,name_1125,Male,40,95000,72,1,Masters,,Executive,2019/05/12,user1125@example.com
+1126,name_1126,Female,34,25000,23,3,,married,Artist,2019/12/01,user1126@example.com
+1127,name_1127,female,43,unknown,47,5,Masters,married,Engineer,2019/01/30,user1127@example.com
+1128,name_1128,male,,,90,4,,Married,Lawyer,2019/12/04,
+1129,name_1129,Male,46,55000,46,3,HS,Single,Engineer,2023/04/25,user1129@example.com
+1130,name_1130,Female,43,95000,12,2,,Single,Engineer,2018/11/04,user1130@example.com
+1131,name_1131,Female,27,65000,90,5,HS,married,Executive,2022/11/27,user1131@@example.com
+1132,name_1132,Male,43,35000,13,5,master,Married,Lawyer,2018/07/02,user1132@example.com
+1133,name_1133,Male,51,75000,62,3,High School,Single,Executive,2019/09/21,user1133@example.com
+1134,name_1134,Female,68,65000,82,N/A,High School,Married,Other,2022/12/23,user1134@example.com
+1135,name_1135,FEMALE,58,35000,89,3,Phd,Married,Lawyer,2019/05/25,user1135@example.com
+1136,name_1136,Female,24,45000,97,N/A,Bachelor,Married,Executive,2022/09/28,user1136@example.com
+1137,name_1137,Female,21,--,60,4,HS,single,Engineer,2019/06/30,user1137@example.com
+1138,name_1138,F,N/A,85000,43,1,Bachelors,,Executive,2022/05/07,user1138@example.com
+1139,name_1139,Female,67,85000,76,3,Masters,Married,Artist,2019/09/16,user1139@example.com
+1140,name_1140,unknown,62,75000,100,2,High School,single,engineer,2022/11/23,user1140@example.com
+1141,name_1141,unknown,28,95000,68,N/A,,married,Other,2019/08/17,user1141@example.com
+1142,name_1142,Male,46,55000,5,3,Masters,Single,Lawyer,2020/01/14,user1142@example.com
+1143,name_1143,Female,53,95000,37,three,Masters,,Engineer,2021/06/04,user1143@example.com
+1144,name_1144,Female,42,55000,72,2,Phd,Single,Other,2022/11/04,user1144@example.com
+1145,name_1145,Female,38,95000,92,2,HS,,Other,2022/10/23,user1145@example.com
+1146,name_1146,Male,53,--,31,2,High School,Single,Engineer,2021/12/30,user1146@example.com
+1147,name_1147,M,27,45000,9,N/A,Masters,,Doctor,2023/05/03,user1147@example.com
+1148,name_1148,Female,54,45000,51,three,High School,Single,Other,2021/12/16,user1148@example.com
+1149,name_1149,Male,26,35000,29,three,Bachelors,Single,Engineer,2019/07/08,user1149@example.com
+1150,name_1150,Male,41,unknown,78,5,Phd,Single,Other,2018/01/21,user1150@example.com
+1151,NAME_1151,male,52,45000,40,N/A,Bachelors,Single,Artist,2019/07/08, user1151@example.com 
+1152,name_1152,Male,66,45000,41,1,High School,married,Engineer,2019/02/01,user1152@example.com
+1153,name_1153,Male,52,65000,86,2,master,Married,Other,2019/09/17,user1153@example.com
+1154,name_1154,Female,65,65000,11,4,,Divorced,Artist,2018/04/15,user1154@example.com
+1155,name_1155,,53,35000,23,2,High School,single,Lawyer,2018/07/11,user1155@example.com
+1156,name_1156,Male,35,unknown,1,4,HS,Divorced,Engineer,2018/01/17,user1156@example.com
+1157,name_1157,F,66,75000,46,3,Masters,Divorced,Engineer,2021/02/17,user1157@example.com
+1158,name_1158,female,56,65000,21,3,Masters,,Executive,2019/01/28,user1158@example.com
+1159,name_1159,Male,49,75000,90,4,Bachelors,Married,Lawyer,2019/03/01,user1159@example.com
+1160,name_1160,F,41,25000,36,3,,,Executive,2018/05/09,user1160@example.com
+1161,name_1161,Female,40,65000,54,1,Phd,Married,Other,2021/02/27,user1161@example.com
+1162,name_1162,M,49,--,87,three,master,Married,Executive,2019/07/26,user1162@example.com
+1163,name_1163,M,54,unknown,57,3,Bachelor,Single,Engineer,2022/05/03,user1163@example.com
+1164,name_1164,Female,29,35000,1,5,,married,Artist,2018/01/29,user1164@example.com
+1165,name_1165,Male,66,25000,63,3,Masters,Single,Other,2021/01/25,user1165@example.com
+1166,name_1166,female,,unknown,54,2,HS,married,Other,2020/10/30,user1166@example.com
+1167,name_1167,Female,30,--,55,1,,,Lawyer,2018/08/30,user1167@example.com
+1168,name_1168,Male,40,unknown,40,2,Bachelors,married,Doctor,2023/01/24,user1168@example.com
+1169,name_1169,Male,42,--,15,2,Bachelors,,Doctor,2023/06/03,user1169@example.com
+1170,name_1170,M,52,--,21,5,Bachelor,Divorced,Executive,2018/08/20,user1170@example.com
+1171,name_1171,F,58,75000,47,1,HS,Divorced,Other,2020/02/28,user1171@example.com
+1172,name_1172,Male,47,95000,73,1,Phd,married,Executive,2021/07/31,user1172@example.com
+1173,name_1173,Female,34,25000,53,N/A,,married,Other,2019/12/16,user1173@example.com
+1174,name_1174,Male,66,unknown,9,1,HS,,Other,2020/01/29,user1174@example.com
+1175,name_1175,M,37,55000,74,1,Phd,Single,Engineer,2020/03/12,user1175@example.com
+1176,name_1176,Male,65,25000,52,1,HS,,Artist,2020/02/15,user1176@example.com
+1177,name_1177,F,,,57,5,,Single,Engineer,2023/06/02,
+1178,name_1178,Female,39,25000,26,3,High School,Divorced,Doctor,2019/12/27,user1178@example.com
+1179,name_1179,FEMALE,30,45000,41,N/A,Bachelors,Married,Other,2018/07/19,user1179@example.com
+1180,name_1180,Male,36,55000,35,2,,married,Lawyer,2020/08/02,user1180@example.com
+1181,name_1181,Female,66,95000,63,1,HS,Single,Lawyer,2018/03/20,user1181@example.com
+1182,name_1182,Male,53,75000,25,2,,,Engineer,2023/04/21,user1182@example.com
+1183,name_1183,FEMALE,29,unknown,90,3,Bachelor,Divorced,Doctor,2020/08/13,user1183@example.com
+1184,name_1184,male,58,85000,75,3,HS,Single,Doctor,2023/02/22,user1184@example.com
+1185,name_1185,Male,36,95000,38,2,Masters,,Doctor,2020/05/05,user1185@example.com
+1186,name_1186,M,,,2,5,,married,Executive,2021/04/11,
+1187,name_1187,female,26,unknown,7,4,Masters,married,Doctor,2019/04/12,user1187@example.com
+1188,name_1188,Female,24,95000,82,4,,single,Executive,2019/08/04,user1188@example.com
+1189,name_1189,Female,45,45000,91,3,,Married,Engineer,2021/12/10,user1189@example.com
+1190,name_1190,Male,,,34,three,,single,Engineer,2020/07/28,
+1191,name_1191,Male,48,45000,91,three,,Divorced,Doctor,2019/03/25,user1191@example.com
+1192,name_1192,male,69,85000,17,2,Masters,Single,Executive,2018/03/28,user1192@example.com
+1193,name_1193,male,36,35000,43,4,HS,Divorced,Executive,2018/04/11,user1193@example.com
+1194,name_1194,M,64,unknown,59,3,HS,,Lawyer,2020/10/28,user1194@example.com
+1195,name_1195,Female,33,75000,51,5,High School,married,Lawyer,2020/04/24,user1195@example.com
+1196,name_1196,Female,N/A,45000,54,4,Bachelor,single,Executive,2021/05/08,user1196@example.com
+1197,name_1197,F,22,45000,24,3,,single,Engineer,2022/03/09,user1197@example.com
+1198,name_1198,male,52,--,25,3,Masters,single,Artist,2018/03/28,user1198@example.com
+1199,name_1199,male,29,85000,71,1,,Divorced,Other,2018/02/12,user1199@example.com
+1200,name_1200,female,42,65000,52,5,,married,Executive,2021/11/09,user1200@example.com
+1201,NAME_1201,m,69,unknown,70,1,Phd,Single,Artist,2022/07/03, user1201@example.com 
+1202,name_1202,Male,38,85000,88,2,High School,,Other,2021/12/29,user1202@example.com
+1203,name_1203,Male,53,--,33,1,Masters,Single,Other,2019/02/12,user1203@example.com
+1204,name_1204,male,N/A,25000,49,2,Masters,Divorced,Doctor,2022/02/15,user1204@example.com
+1205,name_1205,M,40,85000,29,1,,,Executive,2019/10/26,user1205@example.com
+1206,name_1206,Male,33,75000,63,2,High School,single,Executive,2020/11/06,user1206@example.com
+1207,name_1207,Male,56,unknown,22,4,HS,Married,Artist,2022/07/27,user1207@example.com
+1208,name_1208,F,62,--,26,three,Masters,Divorced,Artist,2018/05/28,user1208@example.com
+1209,name_1209,Male,N/A,25000,28,N/A,HS,Divorced,Artist,2018/10/04,user1209@example.com
+1210,name_1210,Male,59,55000,85,N/A,High School,married,Executive,2018/08/20,user1210@example.com
+1211,name_1211,Female,56,--,49,3,HS,Single,Lawyer,2023/01/24,user1211@example.com
+1212,name_1212,F,31,55000,71,N/A,Bachelors,Divorced,Other,2023/05/05,user1212@example.com
+1213,name_1213,M,48,unknown,81,2,Phd,Divorced,Executive,2019/01/01,user1213@example.com
+1214,name_1214,Male,,,84,5,,single,Engineer,2021/06/05,
+1215,name_1215,F,52,--,49,1,Masters,single,Executive,2022/08/02,user1215(at)example.com
+1216,name_1216,Male,40,35000,20,2,Bachelor,,Doctor,2019/03/12,user1216@example.com
+1217,name_1217,Female,46,55000,86,5,Phd,Married,Executive,2019/02/03,user1217@example.com
+1218,name_1218,F,60,75000,92,three,master,married,Executive,2021/05/19,user1218@example.com
+1219,name_1219,M,28,35000,63,N/A,HS,Married,Doctor,2021/11/15,user1219@example.com
+1220,name_1220,male,35,95000,61,three,Masters,,Lawyer,2019/05/14,user1220@example.com
+1221,name_1221,M,64,95000,49,N/A,HS,single,Engineer,2019/06/24,user1221@example.com
+1222,name_1222,M,29,25000,71,1,Bachelors,Single,Engineer,2019/07/17,user1222@example.com
+1223,name_1223,Male,26,45000,1,2,High School,single,Artist,2022/02/23,user1223@example.com
+1224,name_1224,Female,27,unknown,96,1,Masters,married,Artist,2019/03/18,user1224@example.com
+1225,name_1225,Male,61,--,13,4,master,single,,2021/07/08,user1225@example.com
+1226,name_1226,Male,34,65000,94,2,master,married,Lawyer,2020/02/12,user1226@example.com
+1227,name_1227,unknown,55,75000,87,3,Bachelors,married,Artist,2018/12/16,user1227@example.com
+1228,name_1228,Female,24,55000,51,2,Bachelors,married,Executive,2021/10/07,user1228@@example.com
+1229,name_1229,male,63,unknown,56,1,,,Engineer,2019/06/04,user1229@example.com
+1230,name_1230,M,30,35000,83,5,Masters,married,engineer,2021/09/05,user1230@example.com
+1231,name_1231,female,57,95000,62,2,HS,married,Executive,2018/05/18,user1231@example.com
+1232,name_1232,Female,59,75000,32,2,Bachelor,Single,Other,2022/04/23,user1232@example.com
+1233,name_1233,M,26,65000,30,N/A,master,Married,Engineer,2022/07/05,user1233@example.com
+1234,name_1234,Female,67,--,29,2,master,Divorced,Artist,2020/09/18,user1234@example.com
+1235,name_1235,Male,44,25000,49,N/A,Bachelors,Married,Artist,2019/01/03,user1235@example.com
+1236,name_1236,F,19,65000,45,2,Phd,married,Other,2021/05/28,user1236@example.com
+1237,name_1237,Female,22,75000,93,1,Bachelors,Single,Engineer,2021/09/22,user1237@example.com
+1238,name_1238,Male,46,65000,30,2,Bachelor,single,Doctor,2021/05/31,user1238@example.com
+1239,name_1239,M,54,75000,16,2,HS,Single,,2022/07/30,user1239@example.com
+1240,name_1240,Male,55,75000,40,5,HS,married,Lawyer,2022/11/27,user1240@example.com
+1241,name_1241,FEMALE,36,85000,19,three,Phd,Single,Artist,2018/12/26,user1241@example.com
+1242,name_1242,FEMALE,25,55000,18,2,master,Single,Engineer,2020/07/09,user1242@example.com
+1243,name_1243,male,65,95000,1,2,Bachelors,married,engineer,2018/11/25,user1243@example.com
+1244,name_1244,Female,62,85000,78,three,,,Engineer,2020/08/19,user1244@example.com
+1245,name_1245,Male,18,--,47,2,HS,Single,Executive,2019/04/08,user1245@example.com
+1246,name_1246,FEMALE,39,85000,66,5,Bachelor,Divorced,Other,2020/08/03,user1246@example.com
+1247,name_1247,Female,69,45000,92,2,Masters,Divorced,Doctor,2020/08/20,user1247@example.com
+1248,name_1248,unknown,34,45000,94,1,High School,Single,Executive,2022/05/04,user1248@example.com
+1249,name_1249,unknown,24,95000,38,3,High School,,Engineer,2023/01/02,user1249@example.com
+1250,name_1250,male,42,65000,51,N/A,High School,single,Doctor,2021/11/06,user1250@example.com
+1251,NAME_1251,female,62,55000,63,N/A,,married,Other,2020/04/15, user1251@example.com 
+1252,name_1252,Female,21,95000,4,2,master,Divorced,Other,2022/06/02,user1252@@example.com
+1253,name_1253,male,53,75000,1,3,Bachelors,single,Executive,2022/06/29,user1253@example.com
+1254,name_1254,Female,23,35000,8,2,Phd,Single,Lawyer,2018/06/18,user1254@example.com
+1255,name_1255,Male,48,55000,29,5,,single,Engineer,2018/08/05,user1255@example.com
+1256,name_1256,Female,36,55000,55,2,,Married,Engineer,2019/01/13,user1256@example.com
+1257,name_1257,FEMALE,61,75000,3,2,HS,Divorced,Engineer,2018/04/29,user1257@example.com
+1258,name_1258,F,unknown,75000,32,three,Masters,Single,Doctor,2018/07/09,user1258@example.com
+1259,name_1259,M,56,25000,10,4,,married,Artist,2020/02/06,user1259@example.com
+1260,name_1260,Male,44,95000,74,2,Bachelor,,Artist,2019/01/05,user1260@example.com
+1261,name_1261,M,27,75000,83,3,Masters,Single,Artist,2022/12/07,user1261@example.com
+1262,name_1262,,43,45000,34,2,Bachelor,married,Doctor,2018/05/29,user1262@example.com
+1263,name_1263,Male,36,--,97,3,master,,Lawyer,2022/08/27,user1263@example.com
+1264,name_1264,Female,56,35000,87,2,Bachelors,,Other,2019/10/14,user1264@example.com
+1265,name_1265,male,20,95000,55,2,High School,Single,Doctor,2023/02/26,user1265@example.com
+1266,name_1266,F,62,unknown,92,1,,single,engineer,2022/02/20,user1266@example.com
+1267,name_1267,F,30,45000,32,three,Bachelors,single,Other,2020/02/09,user1267@example.com
+1268,name_1268,F,67,65000,50,2,master,,Engineer,2019/01/09,user1268@example.com
+1269,name_1269,Female,45,75000,7,N/A,Phd,single,Other,2020/02/20,user1269@example.com
+1270,name_1270,Female,37,unknown,93,3,Phd,Married,Executive,2022/09/13,user1270@example.com
+1271,name_1271,female,45,75000,8,4,master,,Executive,2018/06/09,user1271@example.com
+1272,name_1272,female,25,55000,65,4,Bachelor,,Artist,2018/12/17,user1272@example.com
+1273,name_1273,male,58,45000,57,5,HS,married,Lawyer,2023/04/20,user1273@example.com
+1274,name_1274,male,56,55000,67,2,HS,single,Artist,2021/08/04,user1274@example.com
+1275,name_1275,Female,18,25000,88,3,Bachelor,,Lawyer,2021/08/04,user1275@example.com
+1276,name_1276,Female,,,87,5,,Married,Executive,2020/06/10,
+1277,name_1277,female,30,25000,59,3,Phd,married,Executive,2021/06/03,user1277@example.com
+1278,name_1278,M,45,25000,72,N/A,,Single,Lawyer,2019/06/07,user1278@example.com
+1279,name_1279,F,66,unknown,54,2,Phd,,Executive,2019/06/06,user1279@example.com
+1280,name_1280,female,42,75000,67,2,Bachelors,Married,Engineer,2020/02/22,user1280@example.com
+1281,name_1281,male,50,65000,51,2,Phd,Divorced,Doctor,2018/09/30,user1281@example.com
+1282,name_1282,Female,55,55000,97,4,Masters,Married,Other,2020/07/24,user1282@example.com
+1283,name_1283,Female,N/A,45000,92,2,,Married,Artist,2021/11/26,user1283@example.com
+1284,name_1284,Male,23,25000,8,2,High School,married,Engineer,2018/07/02,user1284@example.com
+1285,name_1285,M,61,75000,34,N/A,Phd,Single,Engineer,2023/06/16,user1285@example.com
+1286,name_1286,Male,62,35000,35,1,Bachelor,Divorced,Doctor,2022/08/16,user1286@example.com
+1287,name_1287,Female,49,95000,96,4,High School,single,engineer,2019/05/03,user1287@example.com
+1288,name_1288,Female,62,unknown,88,5,Bachelors,single,Executive,2023/01/25,user1288@example.com
+1289,name_1289,Female,64,65000,78,three,Bachelor,Married,Other,2020/04/25,user1289@example.com
+1290,name_1290,M,38,85000,32,1,High School,married,Executive,2018/05/04,user1290@example.com
+1291,name_1291,Male,33,unknown,46,5,Bachelor,married,Lawyer,2020/09/11,user1291@example.com
+1292,name_1292,Male,unknown,35000,16,2,Bachelors,single,Doctor,2022/07/08,user1292@example.com
+1293,name_1293,female,38,95000,68,1,,Divorced,Executive,2020/02/29,user1293@example.com
+1294,name_1294,Female,28,35000,37,N/A,Masters,Single,Engineer,2019/02/18,user1294@example.com
+1295,name_1295,Male,54,55000,54,5,Bachelors,Divorced,Other,2022/10/15,user1295@example.com
+1296,name_1296,Female,53,25000,85,2,Bachelors,,Other,2021/04/10,user1296@example.com
+1297,name_1297,female,52,65000,14,4,Bachelor,,Doctor,2021/08/04,user1297@example.com
+1298,name_1298,Male,36,--,95,three,,Single,engineer,2021/12/29,user1298@example.com
+1299,name_1299,M,37,25000,55,2,master,single,Other,2019/11/17,user1299@example.com
+1300,name_1300,Male,35,--,48,2,HS,Single,Executive,2018/04/23,user1300@@example.com
+1099,Name_1099,Male,41,85000,88,3,High School,Single,Engineer,2022/05/17,user1099@example.com
+1260,Name_1260,Male,44,95000,74,2,Bachelor,,Artist,2019/01/05,user1260@example.com
+1185,Name_1185,Male,36,95000,38,2,Masters,,Doctor,2020/05/05,user1185@example.com
+1257,Name_1257,FEMALE,61,75000,3,2,HS,Divorced,Engineer,2018/04/29,user1257@example.com
+1030,Name_1030,Male,64,55000,60,5,Bachelors,,Artist,2020/12/19,user1030@example.com
+1255,Name_1255,Male,48,55000,29,5,,single,Engineer,2018/08/05,user1255@example.com
+1008,Name_1008,male,57,85000,49,3,HS,single,Artist,2022/05/23,user1008@example.com
+1014,Name_1014,Male,47,65000,75,4,master,Single,Lawyer,2022/06/20,user1014@example.com
